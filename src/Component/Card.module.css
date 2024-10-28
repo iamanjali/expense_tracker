@@ -1,0 +1,14 @@
+.success{
+    background: linear-gradient(90deg, #b5dc52, #89e148);
+    color: #fff;
+}
+
+.failure{
+    background: linear-gradient(90deg, #ff9595, #ff4747, #ff3838);
+    color: #fff;
+}
+
+.card{
+    background: linear-gradient(90deg, #b5dc52, #89e148);
+    color: #fff;
+}
